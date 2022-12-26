@@ -7,4 +7,4 @@ Variables\
 Command substitution\
 I/O Redirection\
 Pipes and Filters\
-Command line arguments\
+Command line arguments
