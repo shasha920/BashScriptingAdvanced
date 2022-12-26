@@ -1,6 +1,6 @@
 # Bash Scripting Advanced
 
-simple bash shell script and implement the "Shabang" directive in a shell script
+simple bash shell script and implement the "Shabang" directive in a shell script \
 Metacharacters
 Quoting
 Variables
